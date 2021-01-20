@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.474370fa.chunk.css",
+    "main.js": "/static/js/main.53eb0d59.chunk.js",
+    "main.js.map": "/static/js/main.53eb0d59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42a9be28.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42a9be28.js.map",
+    "static/js/2.45dc7a6e.chunk.js": "/static/js/2.45dc7a6e.chunk.js",
+    "static/js/2.45dc7a6e.chunk.js.map": "/static/js/2.45dc7a6e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.474370fa.chunk.css.map": "/static/css/main.474370fa.chunk.css.map",
+    "static/js/2.45dc7a6e.chunk.js.LICENSE.txt": "/static/js/2.45dc7a6e.chunk.js.LICENSE.txt",
+    "static/media/delete-icon.a8fd8cf2.svg": "/static/media/delete-icon.a8fd8cf2.svg",
+    "static/media/dwarf.16936d58.jpg": "/static/media/dwarf.16936d58.jpg",
+    "static/media/edit-icon.4ffe848a.svg": "/static/media/edit-icon.4ffe848a.svg",
+    "static/media/elf.c481a4e7.jpg": "/static/media/elf.c481a4e7.jpg",
+    "static/media/hobbit.8c12fa22.jpg": "/static/media/hobbit.8c12fa22.jpg",
+    "static/media/plus-icon.7dc9706b.svg": "/static/media/plus-icon.7dc9706b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42a9be28.js",
+    "static/js/2.45dc7a6e.chunk.js",
+    "static/css/main.474370fa.chunk.css",
+    "static/js/main.53eb0d59.chunk.js"
+  ]
+}
