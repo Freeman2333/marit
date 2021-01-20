@@ -7,7 +7,6 @@ import Dworf from '../assets/images/dwarf.jpg';
 import Elf from '../assets/images/elf.jpg';
 import {DELETE_ITEM,CHANGE_PERSON_NAME} from '../redux/actionTypes'
 import { ReactComponent as DeleteIcon } from '../assets/delete-icon.svg';
-import { ReactComponent as AddIcon } from '../assets/plus-icon.svg';
 import { ReactComponent as EditIcon } from '../assets/edit-icon.svg';
 const raceImages = {
   Hobbit, Human, Elf, Dworf
@@ -27,9 +26,6 @@ const RacePerson = ({ racePerson }) => {
       <img className={styles.race_img} src={raceImages[racePerson.race]} alt={racePerson.race} />
       <h3>{racePerson.name}</h3>
       <div className={styles.btn_container}>
-        <button>
-          <AddIcon width="24" height="24"/>
-        </button>
         <button onClick={()=>setEditName(true)}>
           <EditIcon width="24" height="24"/>
         </button>
