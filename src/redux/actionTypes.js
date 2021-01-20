@@ -1,0 +1,3 @@
+export const SET_RACES = "SET_RACES"
+export const DELETE_ITEM = "DELETE_ITEM"
+export const CHANGE_PERSON_NAME = "CHANGE_PERSON_NAME"
